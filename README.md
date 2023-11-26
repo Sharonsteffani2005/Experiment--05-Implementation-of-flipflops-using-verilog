@@ -112,23 +112,42 @@ Program for flipflops  and verify its truth table in quartus using Verilog progr
 Developed by: 
 RegisterNumber:  
 */
+### SR FLIPFLOP
+
+![SR](https://github.com/Sharonsteffani2005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144979934/cde81e44-5d4c-48ee-a01c-2d205c3ce01d)
+### D FLIPFLOP
+
+![D](https://github.com/Sharonsteffani2005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144979934/d418997d-8c42-4d2f-b2ed-5e70e02880dc)
 
 
+### JK FLIPFLOP
 
+![JK](https://github.com/Sharonsteffani2005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144979934/78a844fa-807f-4301-ada9-94c73af0d718)
 
+### T FLIPFLOP
+
+![T](https://github.com/Sharonsteffani2005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144979934/2b7d543b-427f-4593-a868-add950db9de6)
 
 
 ### RTL LOGIC FOR FLIPFLOPS 
 
+![SR RTL](https://github.com/Sharonsteffani2005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144979934/baa1dcf3-0102-4fd4-94f9-785f2223c667)
 
+![D RTL](https://github.com/Sharonsteffani2005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144979934/87c91d35-92e3-45d8-91ed-8467f2a98968)
 
+![JK RTL](https://github.com/Sharonsteffani2005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144979934/ff6475ba-da95-44e4-a25d-953f628f21ee)
 
-
-
-
+![T RTL](https://github.com/Sharonsteffani2005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144979934/95f50808-d0b7-4e30-8be4-ecdb769b3246)
 
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
+
+
+![SR TIME](https://github.com/Sharonsteffani2005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144979934/1a6a728b-7e8a-41d9-9561-d4c5a6f3b011)
+
+![D TIME](https://github.com/Sharonsteffani2005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144979934/6307d261-2536-4a49-8cd5-46cddde28d90)
+
+![JK TIME](https://github.com/Sharonsteffani2005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144979934/56cf52d2-146f-4050-bf80-37919d55d675)
 
 
 
@@ -138,3 +157,4 @@ RegisterNumber:
 
 
 ### RESULTS 
+Thus SR, D , JK and T flip flop has been executed successfully using verilog programming
