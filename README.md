@@ -146,6 +146,8 @@ RegisterNumber:
 
 ![SR TIME](https://github.com/Sharonsteffani2005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144979934/1a6a728b-7e8a-41d9-9561-d4c5a6f3b011)
 
+### D FLIPFLOP
+
 ![D TIME](https://github.com/Sharonsteffani2005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144979934/6307d261-2536-4a49-8cd5-46cddde28d90)
 
 ![JK TIME](https://github.com/Sharonsteffani2005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144979934/56cf52d2-146f-4050-bf80-37919d55d675)
