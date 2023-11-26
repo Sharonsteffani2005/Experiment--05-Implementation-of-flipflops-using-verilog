@@ -115,8 +115,8 @@ RegisterNumber:
 ### SR FLIPFLOP
 
 ![SR](https://github.com/Sharonsteffani2005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144979934/cde81e44-5d4c-48ee-a01c-2d205c3ce01d)
-### D FLIPFLOP
 
+### D FLIPFLOP
 ![D](https://github.com/Sharonsteffani2005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144979934/d418997d-8c42-4d2f-b2ed-5e70e02880dc)
 
 
@@ -125,7 +125,6 @@ RegisterNumber:
 ![JK](https://github.com/Sharonsteffani2005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144979934/78a844fa-807f-4301-ada9-94c73af0d718)
 
 ### T FLIPFLOP
-
 ![T](https://github.com/Sharonsteffani2005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144979934/2b7d543b-427f-4593-a868-add950db9de6)
 
 
