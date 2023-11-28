@@ -133,12 +133,16 @@ RegisterNumber:
 
 ### RTL LOGIC FOR FLIPFLOPS 
 
+### SR FLIPFLOP
 ![SR RTL](https://github.com/Sharonsteffani2005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144979934/baa1dcf3-0102-4fd4-94f9-785f2223c667)
 
+### D Flip-Flop
 ![D RTL](https://github.com/Sharonsteffani2005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144979934/87c91d35-92e3-45d8-91ed-8467f2a98968)
 
+### JK FLIPFLOP
 ![JK RTL](https://github.com/Sharonsteffani2005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144979934/ff6475ba-da95-44e4-a25d-953f628f21ee)
 
+ ### T Flip-Flop
 ![T RTL](https://github.com/Sharonsteffani2005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144979934/95f50808-d0b7-4e30-8be4-ecdb769b3246)
 
 
